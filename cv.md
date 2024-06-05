@@ -355,8 +355,8 @@ Grant provided films that higlight America's Civil Rights Movement. Grant applic
 
 ## Community Service
 
-* Code4Lib Journal – Editorial board member 2015 – 2023
-* Urban Library Journal – Co-editor 2014 – 2015, Editor 2015-2016
+* *Code4Lib Journal* – Editorial board member 2015 – 2023
+* *Urban Library Journal* – Co-editor 2014 – 2015, Editor 2015-2016
 * Peer Reviewer – Access Conference 2013 (Canada)
 * Peer Reviewer – The Weave UX 2013 – 2015
 
@@ -378,7 +378,7 @@ Grant provided films that higlight America's Civil Rights Movement. Grant applic
 
 ## College Service
 
-* New York City College of Technology, Professional Development Advisory Council(PDAC) College Research Council 2022-present
+* New York City College of Technology, Professional Development Advisory Council(PDAC) College Research Council 2022-2024
 * New York City College of Technology, Faculty Commons Using a Personal Website and Social Media to Promote Your Research and Creative Work Workshop
 * New York City College of Technology, [Faculty Commons Faculty Friday: Using Podcasts as a Teaching Tool](https://youtu.be/zjY2vQztGvI) Workshop
 * New York City College of Technology, PDAC New Faculty Orientation Committee 2019-present
@@ -398,7 +398,7 @@ Grant provided films that higlight America's Civil Rights Movement. Grant applic
 * CUNY University Faculty Senate, Senator 2020-2023
 * CUNY IT Accessibility Task Force 2014 – present
 * CUNY Copyright Committee, Member 2014 – 2015
-* LACUNY Insitute 2017 Organizing Committee, Co-Chair
+* LACUNY Institute 2017 Organizing Committee, Co-Chair
   Organized the annual conference, developed conference [website](https://2018lacunyinst.commons.gc.cuny.edu).
 * LACUNY Institute 2013 Organizing Committee, Member 2012-2013
   Designed print brochures for annual conference
