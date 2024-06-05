@@ -90,7 +90,7 @@ Maintain daily news articles and site maintenance for award-winning, student-run
 
 ### Book Chapters
 
-* Tidal, J. (2021). [Is anybody out there?: Using application statistics and web analytics to assess social media reach](https://www.igi-global.com/chapter/is-anybody-out-there/224544). In Information Resources Management Association (Ed.), *[Research Anthology on Strategies for Using Social Media as a Service and Tool in Business](https://www.igi-global.com/gateway/book/275414?ct=-8585755082102393678)*. IGI Global. (Reprinted from *[Social media for communication and instruction in academic libraries](https://www.igi-global.com/book/social-media-communication-instruction-academic/214080)* by Jennifer Joe and Elisabeth Knight (Eds.), 2019, IGIGlobal).
+* Tidal, J. (2021). [Is anybody out there?: Using application statistics and web analytics to assess social media reach](https://www.igi-global.com/chapter/is-anybody-out-there/224544). In Information Resources Management Association (Ed.), *[Research Anthology on Strategies for Using Social Media as a Service and Tool in Business](https://www.igi-global.com/gateway/book/275414?ct=-8585755082102393678)*. IGI Global. (Reprinted from *[Social media for communication and instruction in academic libraries](https://www.igi-global.com/book/social-media-communication-instruction-academic/214080)* by Jennifer Joe and Elisabeth Knight (Eds.), 2019, IGI Global).
   
 * Tidal, J. (2021). Filipino-American punk. *[Trans-global punk scenes the punk reader volume 2](https://www.intellectbooks.com/trans-global-punk-scenes)*. Russ Bestley, Mike Dines, Paula Guerra and Alastair Gordon (Eds.). Intellect Books.
   
