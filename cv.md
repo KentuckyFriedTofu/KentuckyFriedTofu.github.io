@@ -7,24 +7,17 @@ title: Curriculum Vitae
 
 
 ## Office Address:
-New York City College of Technology
-City University of New York (CUNY)
+New York City College of Technology<br>
+City University of New York (CUNY)<br>
+Ursula C. Schwerin Library<br>
+300 Jay St.<br>
+Library Bldg. Rm. 434<br>
+Brooklyn, NY<br>
+11201<br>
+718.260.5481<br>
 
-Ursula C. Schwerin Library
-
-300 Jay St.
-
-Library Bldg. Rm. 434
-
-Brooklyn, NY
-
-11201
-
-718.260.5481
-
-[jtidal@citytech.cuny.edu](jtidal@citytech.cuny.edu)
-
-[https://library.citytech.cuny.edu](https://library.citytech.cuny.edu)
+[jtidal@citytech.cuny.edu](jtidal@citytech.cuny.edu)<br>
+[https://library.citytech.cuny.edu](https://library.citytech.cuny.edu)<br>
 
 ## Education
 * Indiana University, Bloomington, Indiana
