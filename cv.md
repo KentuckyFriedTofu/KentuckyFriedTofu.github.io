@@ -56,23 +56,23 @@ April 2006 – August 2015; tenured 2013
 Ursula C. Schwerin Library, New York City College of Technology, CUNY, Brooklyn, New York
 
 * **Museum Assistant**
-December 2005 – April 2006
-Lexington History Museum, Lexington, Kentucky
+December 2005 – April 2006<br>
+Lexington History Museum, Lexington, Kentucky<br>
 Coordinate information technology integration in conjunction with museum’s operations. Responsible for software acquisitions. Consult and develop the redesign of the museum’s website in January 2006. Assist with museum tours, research, and exhibitions.
 
 * **Webmaster**
-April 2003 – August 2005
-Office of Orientation Programs, Indiana University, Bloomington, Indiana
+April 2003 – August 2005<br>
+Office of Orientation Programs, Indiana University, Bloomington, Indiana<br>
 Develop the daily design, programming, and maintenance of the main office website and sub sites. Designed customized graphics for web, print, and t-shirts. Redesign office website, graphics, navigation, and layout, February 2005.
 
 * ***Freelance Web Designer**
-June 2003 – August 2005
-Indiana Child Care Health Consultation Program, Bloomington, Indiana
+June 2003 – August 2005<br>
+Indiana Child Care Health Consultation Program, Bloomington, Indiana<br>
 Designed and maintained the program’s website with database capabilities, to be accessed for statewide child care professionals. Created detailed web metrics and server statistics reports for the program director. Archived and manufactured PDF documents for organization members.
 
 * **Web Media Chief**
-January 2003 – May 2005
-Indiana Daily Student, Bloomington, Indiana
+January 2003 – May 2005<br>
+Indiana Daily Student, Bloomington, Indiana<br>
 Maintain daily news articles and site maintenance for award-winning, student-run newspaper, the Indiana Daily Student. Lead team-based productions of special online features and photo galleries. Supervise a staff of 4 student web designers.
 
 ## Publications
