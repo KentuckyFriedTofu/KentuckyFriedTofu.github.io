@@ -3,8 +3,8 @@ layout: default
 title: Hi, I'm Abu
 ---
 
-<main class="px-3">
-<h1>Hi, I'm Abu. </h1>
+
+# Hi, I'm Abu. 
 My name is Abubakar R. Tidal, Jr., and I am the Multimedia and Web Services Librarian, Professor, for the [Ursula C. Schwerin Library](https://library.citytech.cuny.edu) at the [New York City College of Technology](https://citytech.cuny.edu) of the [City University of New York](https://www.cuny.edu).
 
 {:refdef: style="text-align: center;"}
@@ -19,6 +19,5 @@ I oversee the City Tech library's Multimedia Resource Center, the media collecti
 Originally from Whitesburg, KY, I reside in Brooklyn, NY. I earned my Master of Library Science and Master of Information Science from Indiana University, Bloomington. 
 
 While not in the library, I enjoy spending time listening to heavy metal vinyl, cooking vegan meals, and cycling. 
-</main>
 
 
