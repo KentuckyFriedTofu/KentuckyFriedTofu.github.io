@@ -35,7 +35,7 @@ Web Metrics, Web Usability, Mobile Design, Digital Privacy
 
 ## Experience
 
-* Full Professor, Web Services and Multimedia Librarian
+* **Full Professor, Web Services and Multimedia Librarian**
 August 2022 - Present
 Ursula C. Schwerin Library, New York City College of Technology, CUNY
 Brooklyn, New York
@@ -47,30 +47,30 @@ Brooklyn, New York
   * Subject liaison for the departments of Computer Systems Technology, Entertainment Technology, Electrical & Telecommunications Engineering Technology, and Mechanical Engineering Technology, selecting monographs with an annual budget of nearly $10,000.
   * Recommend books and media for purchase to support curriculum and course proposals.
 
-* Associate Professor (tenured), Web Services and Multimedia Librarian
+* **Associate Professor (tenured), Web Services and Multimedia Librarian**
 August 2015 – July 2022
 Ursula C. Schwerin Library, New York City College of Technology, CUNY, Brooklyn, New York
 
-* Assistant Professor, Web Services and Multimedia Librarian
+* **Assistant Professor, Web Services and Multimedia Librarian**
 April 2006 – August 2015; tenured 2013
 Ursula C. Schwerin Library, New York City College of Technology, CUNY, Brooklyn, New York
 
-* Museum Assistant
+* **Museum Assistant**
 December 2005 – April 2006
 Lexington History Museum, Lexington, Kentucky
 Coordinate information technology integration in conjunction with museum’s operations. Responsible for software acquisitions. Consult and develop the redesign of the museum’s website in January 2006. Assist with museum tours, research, and exhibitions.
 
-* Webmaster
+* **Webmaster**
 April 2003 – August 2005
 Office of Orientation Programs, Indiana University, Bloomington, Indiana
 Develop the daily design, programming, and maintenance of the main office website and sub sites. Designed customized graphics for web, print, and t-shirts. Redesign office website, graphics, navigation, and layout, February 2005.
 
-* Freelance Web Designer
+* ***Freelance Web Designer**
 June 2003 – August 2005
 Indiana Child Care Health Consultation Program, Bloomington, Indiana
 Designed and maintained the program’s website with database capabilities, to be accessed for statewide child care professionals. Created detailed web metrics and server statistics reports for the program director. Archived and manufactured PDF documents for organization members.
 
-* Web Media Chief
+* **Web Media Chief**
 January 2003 – May 2005
 Indiana Daily Student, Bloomington, Indiana
 Maintain daily news articles and site maintenance for award-winning, student-run newspaper, the Indiana Daily Student. Lead team-based productions of special online features and photo galleries. Supervise a staff of 4 student web designers.
