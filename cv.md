@@ -8,7 +8,6 @@ title: Curriculum Vitae
 
 ## Office Address:
 New York City College of Technology
-
 City University of New York (CUNY)
 
 Ursula C. Schwerin Library
