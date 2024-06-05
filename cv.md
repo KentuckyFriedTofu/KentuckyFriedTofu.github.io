@@ -81,19 +81,28 @@ View my [Google Scholar Profile](https://scholar.google.com/citations?user=mAq-F
 
 ### Books
 
-* Tidal, J. (forthcoming) *Writing a librarian’s teaching portfolio: A how to*. Association of College and Research Libraries (ACRL).<br>
-* Tidal, J. (2021). *[Podcasting: A practical guide for librarians](http://www.worldcat.org/oclc/1259038141)*. Chicago: Rowman & Littlefield.<br>
+* Tidal, J. (forthcoming) *Writing a librarian’s teaching portfolio: A how to*. Association of College and Research Libraries (ACRL).
+* 
+* Tidal, J. (2021). *[Podcasting: A practical guide for librarians](http://www.worldcat.org/oclc/1259038141)*. Chicago: Rowman & Littlefield.
+* 
 * Tidal, J. (2015). *[Usability and the mobile web: A LITA guide](http://www.worldcat.org/oclc/1151666266)*. Chicago: American Libraries Association, TechSource.
 
 ### Book Chapters
 
-* Tidal, J. (2021). [Is anybody out there?: Using application statistics and web analytics to assess social media reach](https://www.igi-global.com/chapter/is-anybody-out-there/224544). In Information Resources Management Association (Ed.), *[Research Anthology on Strategies for Using Social Media as a Service and Tool in Business](https://www.igi-global.com/gateway/book/275414?ct=-8585755082102393678)*. IGI Global. (Reprinted from *[Social media for communication and instruction in academic libraries](https://www.igi-global.com/book/social-media-communication-instruction-academic/214080)* by Jennifer Joe and Elisabeth Knight (Eds.), 2019, IGIGlobal).<br>
-* Tidal, J. (2021). Filipino-American punk. *[Trans-global punk scenes the punk reader volume 2](https://www.intellectbooks.com/trans-global-punk-scenes)*. Russ Bestley, Mike Dines, Paula Guerra and Alastair Gordon (Eds.). Intellect Books.<br>
-* Tidal, J. (2019). From Wiki to Blog: An academic library’s journey to a collaborative knowledge management system. *[Libraries that learn: Keys to managing organizational knowledge](http://www.worldcat.org/oclc/1123087317)*. Jennifer A. Bartlett and Spencer Acadia (Eds.). ALA Editions.<br>
-* Tidal, J. (2019). Is anybody out there?: Using application statistics and web analytics to assess social media reach. *[Social Media for Communication and Instruction in Academic Libraries](https://www.igi-global.com/book/social-media-communication-instruction-academic/214080)*. Jennifer Joe and Elisabeth Knight (Eds.). IGI Global.<br>
-* Tidal, J. (2017). The promise and perils of open-source. In C. Antonucci & S. Clapp (Eds.),*[The LITA leadership guide: The librarian as entrepreneur, leader, and technologist](http://www.worldcat.org/oclc/1001554883)* (pp. 79-93). Lanham: Rowman et Littlefield.<br>
-* Tidal, J. (2017). Case study: Developing an academic library’s mobile website. In Canuel, R. and Crichton C. (Eds.) *[Mobile technology and academic libraries: Innovative services for research and learning](http://www.worldcat.org/oclc/987708585)*.  Chicago: Association of College & Research Libraries.<br>
-* Tidal, J. (2013). Web librarianship. In Peacock, R. and Wurm, J. (Eds.) *[The new academic librarian: Essays on changing roles and responsibilities](http://www.worldcat.org/oclc/1040980322)* (pp. 170-178). Jefferson, NC: McFarland.<br>
+* Tidal, J. (2021). [Is anybody out there?: Using application statistics and web analytics to assess social media reach](https://www.igi-global.com/chapter/is-anybody-out-there/224544). In Information Resources Management Association (Ed.), *[Research Anthology on Strategies for Using Social Media as a Service and Tool in Business](https://www.igi-global.com/gateway/book/275414?ct=-8585755082102393678)*. IGI Global. (Reprinted from *[Social media for communication and instruction in academic libraries](https://www.igi-global.com/book/social-media-communication-instruction-academic/214080)* by Jennifer Joe and Elisabeth Knight (Eds.), 2019, IGIGlobal).
+  
+* Tidal, J. (2021). Filipino-American punk. *[Trans-global punk scenes the punk reader volume 2](https://www.intellectbooks.com/trans-global-punk-scenes)*. Russ Bestley, Mike Dines, Paula Guerra and Alastair Gordon (Eds.). Intellect Books.
+  
+* Tidal, J. (2019). From Wiki to Blog: An academic library’s journey to a collaborative knowledge management system. *[Libraries that learn: Keys to managing organizational knowledge](http://www.worldcat.org/oclc/1123087317)*. Jennifer A. Bartlett and Spencer Acadia (Eds.). ALA Editions.
+  
+* Tidal, J. (2019). Is anybody out there?: Using application statistics and web analytics to assess social media reach. *[Social Media for Communication and Instruction in Academic Libraries](https://www.igi-global.com/book/social-media-communication-instruction-academic/214080)*. Jennifer Joe and Elisabeth Knight (Eds.). IGI Global.
+  
+* Tidal, J. (2017). The promise and perils of open-source. In C. Antonucci & S. Clapp (Eds.),*[The LITA leadership guide: The librarian as entrepreneur, leader, and technologist](http://www.worldcat.org/oclc/1001554883)* (pp. 79-93). Lanham: Rowman et Littlefield.
+  
+* Tidal, J. (2017). Case study: Developing an academic library’s mobile website. In Canuel, R. and Crichton C. (Eds.) *[Mobile technology and academic libraries: Innovative services for research and learning](http://www.worldcat.org/oclc/987708585)*.  Chicago: Association of College & Research Libraries.
+  
+* Tidal, J. (2013). Web librarianship. In Peacock, R. and Wurm, J. (Eds.) *[The new academic librarian: Essays on changing roles and responsibilities](http://www.worldcat.org/oclc/1040980322)* (pp. 170-178). Jefferson, NC: McFarland.
+  
 * Tidal, J. (2013). Optimizing open source web analytics tools for increased security of WordPress and Drupal. In Farney, T. and McHale, N. (Eds.) *[Web analytics strategies for information professionals A LITA guide](http://www.worldcat.org/oclc/1059010747)* (pp.165-175). Chicago: American Libraries Association, TechSource.
 
 ### Refereed Publications
