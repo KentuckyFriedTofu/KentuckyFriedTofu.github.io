@@ -3,6 +3,7 @@
   max-width: 40em;
 }
 
-.navbar ul li a{
+.navbar ul li a, .navbar .brand{
   text-decoration: underline;
 }
+
