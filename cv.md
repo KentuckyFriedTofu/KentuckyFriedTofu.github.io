@@ -10,14 +10,15 @@ title: Curriculum Vitae
       <div id="cvNav" class="list-group">
       <a class="list-group-item list-group-item-action" href="#ed">Education</a>
       <a class="list-group-item list-group-item-action" href="#exp">Experience</a>
-      <a class="list-group-item list-group-item-action" href="#pub>Publications</a>
+      <a class="list-group-item list-group-item-action" href="#pub">Publications</a>
       <a class="list-group-item list-group-item-action" href="#pres">Presentations</a>
       <a class="list-group-item list-group-item-action" href="#grant">Grant & Awards</a>
       <a class="list-group-item list-group-item-action" href="#service">Service</a>
-      <a class="list-group-item list-group-item-action" href="#service">Mentions</a>
+      <a class="list-group-item list-group-item-action" href="#mentions">Mentions</a>
     </div>
   </div>
  <div id=""col-sm-12 col-md-9 col-lg-9">
+  
 ## Office Address:
 New York City College of Technology<br>
 City University of New York (CUNY)<br>
