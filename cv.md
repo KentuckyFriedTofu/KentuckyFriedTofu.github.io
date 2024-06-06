@@ -1,12 +1,11 @@
 ---
 layout: default
-title: Curriculum Vitae
+title: Abubakar R. Tidal, Jr. - Curriculum Vitae
 ---
 
-# Abubakar R. Tidal, Jr. 
+# Curriculum Vitae
 
-## Curriculum Vitae
-
+## Abubakar R. Tidal, Jr. 
 
 ## Office Address:
 New York City College of Technology<br>
