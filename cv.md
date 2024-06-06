@@ -49,11 +49,11 @@ Brooklyn, New York
   * Recommend books and media for purchase to support curriculum and course proposals.<br><br>
 
 * **Associate Professor (tenured), Web Services and Multimedia Librarian**
-August 2015 – July 2022
+August 2015 – July 2022<br>
 Ursula C. Schwerin Library, New York City College of Technology, CUNY, Brooklyn, New York
 
 * **Assistant Professor, Web Services and Multimedia Librarian**
-April 2006 – August 2015; tenured 2013
+April 2006 – August 2015; tenured 2013<br>
 Ursula C. Schwerin Library, New York City College of Technology, CUNY, Brooklyn, New York
 
 * **Museum Assistant**
