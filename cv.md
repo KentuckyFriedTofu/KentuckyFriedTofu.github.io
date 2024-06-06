@@ -66,7 +66,7 @@ April 2003 – August 2005<br>
 Office of Orientation Programs, Indiana University, Bloomington, Indiana<br>
 Develop the daily design, programming, and maintenance of the main office website and sub sites. Designed customized graphics for web, print, and t-shirts. Redesign office website, graphics, navigation, and layout, February 2005.
 
-* ***Freelance Web Designer**
+* **Freelance Web Designer**
 June 2003 – August 2005<br>
 Indiana Child Care Health Consultation Program, Bloomington, Indiana<br>
 Designed and maintained the program’s website with database capabilities, to be accessed for statewide child care professionals. Created detailed web metrics and server statistics reports for the program director. Archived and manufactured PDF documents for organization members.
