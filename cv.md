@@ -5,7 +5,19 @@ title: Curriculum Vitae
 
 # Abubakar R. Tidal, Jr. - Curriculum Vitae
 
-
+<div id="row">
+ <div id="col-sm-12 col-md-3 col-lg-3">
+      <div id="cvNav" class="list-group">
+      <a class="list-group-item list-group-item-action" href="#ed">Education</a>
+      <a class="list-group-item list-group-item-action" href="#exp">Experience</a>
+      <a class="list-group-item list-group-item-action" href="#pub>Publications</a>
+      <a class="list-group-item list-group-item-action" href="#pres">Presentations</a>
+      <a class="list-group-item list-group-item-action" href="#grant">Grant & Awards</a>
+      <a class="list-group-item list-group-item-action" href="#service">Service</a>
+      <a class="list-group-item list-group-item-action" href="#service">Mentions</a>
+    </div>
+  </div>
+ <div id=""col-sm-12 col-md-9 col-lg-9">
 ## Office Address:
 New York City College of Technology<br>
 City University of New York (CUNY)<br>
@@ -19,7 +31,7 @@ Brooklyn, NY<br>
 [jtidal@citytech.cuny.edu](jtidal@citytech.cuny.edu)<br>
 [https://library.citytech.cuny.edu](https://library.citytech.cuny.edu)<br>
 
-## Education
+<h2 id="ed">Education</h2>
 * Indiana University, Bloomington, Indiana
 M.S. Information Science
 
@@ -30,10 +42,10 @@ M.S. Library Science
 B.S. Telecommunications
 minor: Computer Science
 
-## Research Interests
+## Research Interests</h2>
 Web Metrics, Web Usability, Mobile Design, Digital Privacy
 
-## Experience
+<h2 id="exp">Experience</h2>
 
 * **Full Professor, Web Services and Multimedia Librarian**
 August 2022 - Present
@@ -75,7 +87,7 @@ January 2003 – May 2005<br>
 Indiana Daily Student, Bloomington, Indiana<br>
 Maintain daily news articles and site maintenance for award-winning, student-run newspaper, the Indiana Daily Student. Lead team-based productions of special online features and photo galleries. Supervise a staff of 4 student web designers.
 
-## Publications
+<h2 id="pub">Publications</h2>
 * View my [CUNY Academic Works Readership Report](https://readership.works.bepress.com/?dashboardToken=5f6b7d5bb513fe56f77d9b92eovK4T7zvAKuyxcuPHX2Kz80U35AJFAQd9UBcgsF)
 
 * View my [Google Scholar Profile](https://scholar.google.com/citations?user=mAq-FCgAAAAJ&hl=en&oi=ao)
@@ -186,7 +198,7 @@ Maintain daily news articles and site maintenance for award-winning, student-run
 
 * Tidal, J. (2015). Drupal Security. Presentation at the American Libraries Association Annual Conference: LITA Drupal4Lib Interest Group Meeting, San Francisco, CA.
 
-## Presentations
+<h2 id="#pers">Presentations</h2>
 
 * Tidal, J. (2023). [Speaking Volumes: Podcasts for Patrons and Professionals.](https://www.nicheacademy.com/blog/podcasts-for-patrons-and-professionals) Niche Academy, virtual.
 
@@ -270,7 +282,9 @@ Maintain daily news articles and site maintenance for award-winning, student-run
 
 * Tidal, J. (October, 2009). Developing mobile websites. LACUNY Emerging Technologies Committee Spring Program. New York, NY.
 
-## Grant Activity
+## Grants & Awards
+
+### Grant Activity
 
 * 2023 - American Libraries Association (ALA) [Libraries and Transforming Communities Grant](https://www.ala.org/aboutala/Building-Library-Capacity-Fund-2023-Grantees), $10,000
 This grant provides the City Tech library with vinyl and podcasting equipment. Co-written with Profs. Anne Leonard and Monica Berger
@@ -307,7 +321,7 @@ Grant provided films that higlight America's Civil Rights Movement. Grant applic
 
 * 2013 – National Endowment of the Humanities/Gilder-Lerhman Institute of American History, Created Equal: America’s Civil Rights Struggle Grant Funding and Film Set (with Prof. Ian Beilin and Prof. Tess Tobin)
 
-## Awards and Professional Recognition
+### Awards and Professional Recognition
 
 * 2023 - New York City College of Technology Professional Development Advisory Council Travel Award (Travel to Code4Lib 2023)
 * 2022 - LACUNY Professional Development Travel Grant (Travel to ARLIS/NA)
@@ -340,7 +354,9 @@ Grant provided films that higlight America's Civil Rights Movement. Grant applic
 * 2012 – New York City College of Technology Professional Development Advisory Council Travel Award
     (Travel to CCUMC 2012)
 
-## Professional Service
+<h2 id="service"> Service</h2>
+
+### Professional Service
 
 * Code4Lib 2023 Conference Committee, Scholarship Committee - Member, 2022 - 2023
 * Code4Lib 2016 Conference Committee, Scholarship Committee – Member, 2015 – 2016
@@ -351,7 +367,7 @@ Grant provided films that higlight America's Civil Rights Movement. Grant applic
 * ALA Video Roundtable Notable Videos for Adults Committee, Member 2014 – 2016
 * Co-chair code4Lib New York Chapter/Metro Special Interest Group, 2013 – 2014
 
-## Community Service
+### Community Service
 
 * *Code4Lib Journal* – Editorial board member 2015 – 2023
 * *Urban Library Journal* – Co-editor 2014 – 2015, Editor 2015-2016
@@ -374,7 +390,7 @@ Grant provided films that higlight America's Civil Rights Movement. Grant applic
 * Library Web Committee, Chair, 2010-present
 * Library Workshop Committee
 
-## College Service
+### College Service
 
 * New York City College of Technology, Professional Development Advisory Council(PDAC) College Research Council 2022-2024
 * New York City College of Technology, Faculty Commons Using a Personal Website and Social Media to Promote Your Research and Creative Work Workshop
@@ -391,7 +407,7 @@ Grant provided films that higlight America's Civil Rights Movement. Grant applic
 * New York City College of Technology, CUNY Committee on Students, Non-voting Member 2008 – 2010
 * New York City College of Technology Cinem@Tech – Organized monthly library film screenings 2006 – 2009
 
-## University Service
+### University Service
 
 * CUNY University Faculty Senate, Senator 2020-2023
 * CUNY IT Accessibility Task Force 2014 – present
@@ -419,7 +435,7 @@ Grant provided films that higlight America's Civil Rights Movement. Grant applic
         Member, By-laws Committee 2011-2013
         Member, Constitution Committee 2011-2013
 
-## Membership
+### Membership
 
 * Association of College and Research Libraries (ACRL) 2014 – 2015, 2020-2021
 * ALA Reference User Services Association (RUSA) 2014 – 2016
@@ -432,10 +448,12 @@ Grant provided films that higlight America's Civil Rights Movement. Grant applic
 * Librarians Without Borders, Member 2006 – Present
 * American Libraries Association (ALA), Member 2005 – 2016, 2019 – 2020
 
-## Media Appearances 
+<h2 id="mentions"> Mentions </h2>
 
 
 * Carlson, S. (2022, March 9). Libraries are the great equalizers. *The Chronicle of Higher Education*. [https://www.chronicle.com/chronicle-intelligence/report/libraries-are-the-great-equalizers](https://www.chronicle.com/chronicle-intelligence/report/libraries-are-the-great-equalizers).
 * Carlson, S. (2022). Special collections in *The Library of the Future*. *The Chronicle of Higher Education* report. pg. 36. 
 * Kroski, E. V. (2022, Jan. 3). *Guest interview: Junior Tidal on podcasting* [Video]. YouTube. [https://www.youtube.com/watch?v=u32-9eYj8Mw](https://www.youtube.com/watch?v=u32-9eYj8Mw)
 * Collins, K. & Ovadia, S. (Hosts). (2021, April 26). *Episode 58: City Tech librarians talk podcasting* [Audio podcast episode]. *Indoor Voices* [https://traffic.libsyn.com/secure/indoorvoices/Tidal_and_Almeida.mp3](https://traffic.libsyn.com/secure/indoorvoices/Tidal_and_Almeida.mp3)
+</div>
+</div>
