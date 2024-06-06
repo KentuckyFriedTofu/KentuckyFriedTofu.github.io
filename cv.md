@@ -4,9 +4,9 @@ title: Abubakar R. Tidal, Jr. - Curriculum Vitae
 ---
 
 # Curriculum Vitae
-
+<br>
 ## Abubakar R. Tidal, Jr. 
-
+<br>
 ## Office Address:
 New York City College of Technology<br>
 City University of New York (CUNY)<br>
