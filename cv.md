@@ -21,14 +21,14 @@ Brooklyn, NY<br>
 [https://library.citytech.cuny.edu](https://library.citytech.cuny.edu)<br>
 
 ## Education
-* Indiana University, Bloomington, Indiana
+* Indiana University, Bloomington, Indiana<br>
 M.S. Information Science
 
-* Indiana University, Bloomington, Indiana
+* Indiana University, Bloomington, Indiana<br>
 M.S. Library Science
 
-* University of Kentucky, Lexington, Kentucky
-B.S. Telecommunications
+* University of Kentucky, Lexington, Kentucky<br>
+B.S. Telecommunications<br>
 minor: Computer Science
 
 ## Research Interests
@@ -38,7 +38,7 @@ Web Metrics, Web Usability, Mobile Design, Digital Privacy
 
 * **Full Professor, Web Services and Multimedia Librarian**
 August 2022 - Present
-Ursula C. Schwerin Library, New York City College of Technology, CUNY
+Ursula C. Schwerin Library, New York City College of Technology, CUNY<br>
 Brooklyn, New York
   * Develop, administer, and maintain the library’s cloud-based web server, containing a variety of different content management system driven websites.
   * Support research and information needs of 17,000+ students and faculty. 
