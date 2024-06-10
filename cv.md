@@ -221,7 +221,7 @@ Maintain daily news articles and site maintenance for award-winning, student-run
 
 * Tidal, J. (2017). [Tips for better taps: How to conduct a mobile usability study](http://digitalcommons.macalester.edu/libtech_conf/2017/sessions/15/). Presentation at Library Technology Conference, St. Paul, MN. (Refereed)
 
-* Davis, R. C., Eaton, M., Klein, S., Tidal, J., Ward, L., Zweibel, S. (2016). [CUNY Libraries and ppen source: Wins and fails](http://academicworks.cuny.edu/ny_pubs/120/). Presentation at the 15th Annual CUNY IT Conference, New York, NY. (Refereed)
+* Davis, R. C., Eaton, M., Klein, S., Tidal, J., Ward, L., Zweibel, S. (2016). [CUNY Libraries and open source: Wins and fails](http://academicworks.cuny.edu/ny_pubs/120/). Presentation at the 15th Annual CUNY IT Conference, New York, NY. (Refereed)
 
 * Tidal, J. (2016). [Shortened not stirred: Managing eResources with YOURLs](https://www.dropbox.com/s/pnfeuqw0ouwyq81/7%20-%20Lightning%20-%20Shortened%20Not%20Stirred%20-%20Junior%20Tidal%20-%20%20ACRL%20NEC%20ERMIG%2011-2016.pptx?dl=0). Presentation at ACRL New England Chapter Electronic Resources Management Interest Group Fall 2016 Program “Eresources Management Toolkit.” Cambridge, MA. (Refereed)
 
@@ -231,7 +231,7 @@ Maintain daily news articles and site maintenance for award-winning, student-run
 
 * Almeida, N. and Tidal, J. (2016) [Photo]-Opportunities for engagement using Instagram to promote student library use. Presentation at ACRL National Library Marketing & Outreach Interest Group-Greater NYC Area Meeting, New York, NY. (Refereed)
 
-* Tidal, J. (2015). Making access short And sweet: Developing a PHP proxy linker and URL shortening tool. Presentation at the Fall 2015 code4LibNYC Meeting/METRO SIG, New York, NY.
+* Tidal, J. (2015). Making access short and sweet: Developing a PHP proxy linker and URL shortening tool. Presentation at the Fall 2015 code4LibNYC Meeting/METRO SIG, New York, NY.
 
 * Tidal, J. (2015). Bootstrapping in the cloud: The development of a responsively designed library website. Presentation at the 14th Annual CUNY IT Conference, New York, NY. (Refereed)
 
