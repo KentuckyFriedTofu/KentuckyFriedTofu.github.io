@@ -5,7 +5,7 @@ title: Abubakar R. Tidal, Jr. - Curriculum Vitae
 
 # Curriculum Vitae
 <br>
-## Abubakar R. Tidal, Jr. 
+## Abubakar R. Tidal, Jr.
 <br>
 ## Office Address:
 New York City College of Technology<br>
@@ -41,10 +41,10 @@ August 2022 - Present
 Ursula C. Schwerin Library, New York City College of Technology, CUNY<br>
 Brooklyn, New York
   * Develop, administer, and maintain the library’s cloud-based web server, containing a variety of different content management system driven websites.
-  * Support research and information needs of 17,000+ students and faculty. 
+  * Support research and information needs of 17,000+ students and faculty.
   * Oversee, recommend, and copy catalog media for the library’s 3,000+ piece multimedia collection with an annual budget of $2,000.
-  * Supervise 1 full-time IT Associate, College Assistants, and library web development intern. 
-  * Provide reference and instructional support to faculty and students. 
+  * Supervise 1 full-time IT Associate, College Assistants, and library web development intern.
+  * Provide reference and instructional support to faculty and students.
   * Subject liaison for the departments of Computer Systems Technology, Entertainment Technology, Electrical & Telecommunications Engineering Technology, and Mechanical Engineering Technology, selecting monographs with an annual budget of nearly $10,000.
   * Recommend books and media for purchase to support curriculum and course proposals.<br><br>
 
@@ -84,37 +84,37 @@ Maintain daily news articles and site maintenance for award-winning, student-run
 ### Books
 
 * Tidal, J. (forthcoming) *Writing a librarian’s teaching portfolio: A how to*. Association of College and Research Libraries (ACRL).
-  
+ 
 * Tidal, J. (2021). *[Podcasting: A practical guide for librarians](http://www.worldcat.org/oclc/1259038141)*. Chicago: Rowman & Littlefield.
-  
+ 
 * Tidal, J. (2015). *[Usability and the mobile web: A LITA guide](http://www.worldcat.org/oclc/1151666266)*. Chicago: American Libraries Association, TechSource.
 
 ### Book Chapters
 
 * Tidal, J. (2021). [Is anybody out there?: Using application statistics and web analytics to assess social media reach](https://www.igi-global.com/chapter/is-anybody-out-there/224544). In Information Resources Management Association (Ed.), *[Research Anthology on Strategies for Using Social Media as a Service and Tool in Business](https://www.igi-global.com/gateway/book/275414?ct=-8585755082102393678)*. IGI Global. (Reprinted from *[Social media for communication and instruction in academic libraries](https://www.igi-global.com/book/social-media-communication-instruction-academic/214080)* by Jennifer Joe and Elisabeth Knight (Eds.), 2019, IGI Global).
-  
+ 
 * Tidal, J. (2021). Filipino-American punk. *[Trans-global punk scenes the punk reader volume 2](https://www.intellectbooks.com/trans-global-punk-scenes)*. Russ Bestley, Mike Dines, Paula Guerra and Alastair Gordon (Eds.). Intellect Books.
-  
+ 
 * Tidal, J. (2019). From Wiki to Blog: An academic library’s journey to a collaborative knowledge management system. *[Libraries that learn: Keys to managing organizational knowledge](http://www.worldcat.org/oclc/1123087317)*. Jennifer A. Bartlett and Spencer Acadia (Eds.). ALA Editions.
-  
+ 
 * Tidal, J. (2019). Is anybody out there?: Using application statistics and web analytics to assess social media reach. *[Social Media for Communication and Instruction in Academic Libraries](https://www.igi-global.com/book/social-media-communication-instruction-academic/214080)*. Jennifer Joe and Elisabeth Knight (Eds.). IGI Global.
-  
+ 
 * Tidal, J. (2017). The promise and perils of open-source. In C. Antonucci & S. Clapp (Eds.),*[The LITA leadership guide: The librarian as entrepreneur, leader, and technologist](http://www.worldcat.org/oclc/1001554883)* (pp. 79-93). Lanham: Rowman et Littlefield.
-  
+ 
 * Tidal, J. (2017). Case study: Developing an academic library’s mobile website. In Canuel, R. and Crichton C. (Eds.) *[Mobile technology and academic libraries: Innovative services for research and learning](http://www.worldcat.org/oclc/987708585)*.  Chicago: Association of College & Research Libraries.
-  
+ 
 * Tidal, J. (2013). Web librarianship. In Peacock, R. and Wurm, J. (Eds.) *[The new academic librarian: Essays on changing roles and responsibilities](http://www.worldcat.org/oclc/1040980322)* (pp. 170-178). Jefferson, NC: McFarland.
-  
+ 
 * Tidal, J. (2013). Optimizing open source web analytics tools for increased security of WordPress and Drupal. In Farney, T. and McHale, N. (Eds.) *[Web analytics strategies for information professionals A LITA guide](http://www.worldcat.org/oclc/1059010747)* (pp.165-175). Chicago: American Libraries Association, TechSource.
 
 ### Refereed Publications
 
 * Cooney, C., Clyde, W., Karpinski, K., Tidal, J., & Johnson, N. (2023). [When ‘non-instructional’ librarians teach: Navigating faculty status and teaching portfolios](https://cjal.ca/index.php/capal/article/view/40962). *Canadian Journal of Academic Librarianship*, 9, 1–14. https://doi.org/10.33137/cjal-rcbu.v9.40962.
-  
+ 
 * Tidal, J. (2023). [Review of the book <em>The ultimate privacy field guide: A workbook of best practices</em>](https://crl.acrl.org/index.php/crl/article/view/25884/33806). *College Research & Libraries*, 84(3).
-  
+ 
 * Almeida, N., Tidal, J. (2022). [Navigating the library: Communication and spatial challenges for ESOL students](https://academicworks.cuny.edu/ny_pubs/877/). *portal: Libraries and the Academy*, 22(2).
-  
+ 
 * Tidal, J. (2021). [Library analytics: Shaping the future — library web analytics: Data that can empower and endanger our users](https://www.charleston-hub.com/2021/04/library-analytics-shaping-the-future-library-web-analytics-data-that-can-empower-and-endanger-our-users/). *Against the Grain*, 33(1).
 
 * Abrams, K. and Tidal, J. (2020). [Optimizing library marketing with shortURLs](http://journal.marketinglibraries.org/april2020/05_MLJv4i1_Feature_Abrams_Tidal.pdf). *Marketing Libraries Journal*, 4(1).
@@ -173,25 +173,25 @@ Maintain daily news articles and site maintenance for award-winning, student-run
 
 * Beilin, I., Blick, B., Chun, S. A., Drabinski, E., Polger, M.A., and Tidal, J. (2021). [Ask the editors: Responding to peer review and other tips for successful journal submissions](https://docs.google.com/presentation/d/1PNF6AT5RgTB7IfU5HXQR-C8f6Poi6-Tki2RbT5I5cRQ/edit?usp=sharing). Panel presentation at the LACUNY Professional Development Committee Workshop, New York, NY.
 
-* Tidal, J. (2019). [Empowering Library Users through Effective Usability](https://newyorktechnicalserviceslibrarians.wildapricot.org/resources/Documents/Empowering%20Users%20Through%20Effective%20Usability%20version%202.pptx). New York Technical Services Librarians Fall Program, New York, NY.
+* Tidal, J. (2019). [Empowering library users through effective usability](https://newyorktechnicalserviceslibrarians.wildapricot.org/resources/Documents/Empowering%20Users%20Through%20Effective%20Usability%20version%202.pptx). New York Technical Services Librarians Fall Program, New York, NY.
 
 * Tidal, J. (2017). [Piwik](http://academicworks.cuny.edu/ny_pubs/148). University System of Maryland and Affiliated Institutions Google Analytics Forum [Webinar].
 
 * Tidal, J. (2016). [Piwik and ClickHeat](http://academicworks.cuny.edu/ny_pubs/117/). LITA’s Altmetrics and Digital Analytics Interest Group [Webinar].
 
-* Tidal, J. (2016). [Getting Published in Urban Library Journal](https://www.citytech.cuny.edu/eparse/Archives/jtidal/Scholarship/2016/Presentations/LACUNY%20Prof%20Dev%20Comm%20Presentation/Getting%20Published%20in%20ULJ.pptx) at the LACUNY Professional Development Round Table Meeting, New York, NY.
+* Tidal, J. (2016). [Getting published in *Urban Library Journal*](https://www.citytech.cuny.edu/eparse/Archives/jtidal/Scholarship/2016/Presentations/LACUNY%20Prof%20Dev%20Comm%20Presentation/Getting%20Published%20in%20ULJ.pptx) at the LACUNY Professional Development Round Table Meeting, New York, NY.
 
-* Tidal, J. (2016). [Usability and the Web Librarian Presentation](https://www.citytech.cuny.edu/eparse/Archives/jtidal/Scholarship/2016/Presentations/SLA%20Skill%20Share%20Pratt%20Presentation/Web%20librarian%20usability%20presentation.pptx) at the Special Library Association Student Chapter Skill Share Meeting Pratt Institute, New York, NY.
+* Tidal, J. (2016). [Usability and the web librarian presentation](https://www.citytech.cuny.edu/eparse/Archives/jtidal/Scholarship/2016/Presentations/SLA%20Skill%20Share%20Pratt%20Presentation/Web%20librarian%20usability%20presentation.pptx) at the Special Library Association Student Chapter Skill Share Meeting Pratt Institute, New York, NY.
 
-* Tidal, J. (2015). [Making it Work for the User: A Crash Workshop into Usability Testing for Library Websites](https://www.citytech.cuny.edu/eparse/Archives/jtidal/Scholarship/2016/Presentations/Designing%20for%20Digital%20Workshop/D4D%20MAKING%20IT%20WORK%20FOR%20THE%20USER.pptx). Workshop at the Designing for Digital Conference, Austin, TX.
+* Tidal, J. (2015). [Making it work for the User: A crash workshop into usability testing for library websites](https://www.citytech.cuny.edu/eparse/Archives/jtidal/Scholarship/2016/Presentations/Designing%20for%20Digital%20Workshop/D4D%20MAKING%20IT%20WORK%20FOR%20THE%20USER.pptx). Workshop at the Designing for Digital Conference, Austin, TX.
 
-* Tidal, J. (2015). Drupal Security. Presentation at the American Libraries Association Annual Conference: LITA Drupal4Lib Interest Group Meeting, San Francisco, CA.
+* Tidal, J. (2015). Drupal security. Presentation at the American Libraries Association Annual Conference: LITA Drupal4Lib Interest Group Meeting, San Francisco, CA.
 
 ## Presentations
 
-* Tidal, J. (2023). [Speaking Volumes: Podcasts for Patrons and Professionals.](https://www.nicheacademy.com/blog/podcasts-for-patrons-and-professionals) Niche Academy, virtual.
+* Tidal, J. (2023). [Speaking volumes: Podcasts for patrons and Professionals.](https://www.nicheacademy.com/blog/podcasts-for-patrons-and-professionals) Niche Academy, virtual.
 
-* Lerski, M. and Tidal, J. (2022). Privacy in Information Literacy Instruction presentation for LILAC Spring Training, virtual.
+* Lerski, M. and Tidal, J. (2022). Privacy in information literacy instruction presentation for LILAC Spring Training, virtual.
 
 * Jocson-Singh, J. and Tidal, J. (2022). Shush: Developing an extreme music bibliography by and for marginalized communities, as part of the "Creative Practice as Scholarly Practice: Artistic Alternatives to 'Publish or Perish' Models in LIS" panel presentation at Art Libraries Society of North America Annual Conference, Chicago, IL.
 
@@ -323,23 +323,23 @@ Grant provided films that higlight America's Civil Rights Movement. Grant applic
 * 2016 – New York City College of Technology Professional Development Advisory Council Travel Award (Travel to ALA Midwinter)
 * 2015 – [ACRL Member of the Week](https://acrl.ala.org/acrlinsider/member-of-the-week-junior-tidal/) April 27th – May 2, 2015
 * 2015 – ACRL 2015 Mid-career Librarian scholarship
-    (Travel to ACRL 2015)
+	(Travel to ACRL 2015)
 * 2015 – New York City College of Technology Professional Development Advisory Council Travel Award
-    (Travel to ACRL National Conference 2015)
+	(Travel to ACRL National Conference 2015)
 * 2015 – New York City College of Technology Professional Development Advisory Council Travel Award
-    (Travel to ALA Midwinter 2015)
+	(Travel to ALA Midwinter 2015)
 * 2014 – New York City College of Technology Professional Development Advisory Council Travel Award
-    (Travel to LITA Forum 2014)
+	(Travel to LITA Forum 2014)
 * 2014 – LACUNY Professional Development Award Travel Grant Fall Cycle
-    (Travel to LITA Forum 2014)
+	(Travel to LITA Forum 2014)
 * 2014 – New York City College of Technology Seven Year Service Award
 * 2014 – code4lib Diversity Scholarship
-    (Travel funds for code4lib 2014 National Conference)
+	(Travel funds for code4lib 2014 National Conference)
 * 2013 – New York City College of Technology Professional Development Advisory Council Travel Award
-    (Travel funds to ALCOP 2013)
+	(Travel funds to ALCOP 2013)
 * 2013 – Awarded Tenure, New York City College of Technology, CUNY
 * 2012 – New York City College of Technology Professional Development Advisory Council Travel Award
-    (Travel to CCUMC 2012)
+	(Travel to CCUMC 2012)
 
 ## Professional Service
 
@@ -402,23 +402,23 @@ Grant provided films that higlight America's Civil Rights Movement. Grant applic
 * LACUNY Institute 2013 Organizing Committee, Member 2012-2013
   Designed print brochures for annual conference
 * LACUNY Mobile Development Roundtable, Member 2012 – Present
-    Presented Google Analytics Workshop to CUNY Librarians, December, 2010
+	Presented Google Analytics Workshop to CUNY Librarians, December, 2010
 * Attended L.E.A.D. (Learn to Envision Alternative Directions) Workshop, 2010-2011
-    CUNY-wide librarian leadership program to foster management & training
+	CUNY-wide librarian leadership program to foster management & training
 * LACUNY Emerging Technology Committee, Co-chair 2009 – 2010, Member 2007 – PresentOrganized and facilitated the Electronic Books and Electronic Readers: Emerging Issues and Questions Program, April 2010.
 * CUNY+ Public Services Committee, Usability Sub-Committee 2009
 * LACUNY Junior Faculty Research Roundtable, Member 2008 – 2012
 * LACUNY News, Design and Production of Web and Print 2007 – 2014
-    Design web (http://lacuny.org/news) and print production of the organization’s bi-annual newsletter.
+	Design web (http://lacuny.org/news) and print production of the organization’s bi-annual newsletter.
 * LACUNY Multimedia Roundtable, Member 2006 – Present
 * LACUNY Web Management Roundtable, Member 2006 – Present
-    Migrated, administered and maintained (http://lacuny.org) content and code programming
+	Migrated, administered and maintained (http://lacuny.org) content and code programming
 * Library Association of the City University of New York (LACUNY), Executive Council
-        President-elect 2016-2017
-        Secretary 2011–2013
-        Delegate 2007–2009
-        Member, By-laws Committee 2011-2013
-        Member, Constitution Committee 2011-2013
+    	President-elect 2016-2017
+    	Secretary 2011–2013
+    	Delegate 2007–2009
+    	Member, By-laws Committee 2011-2013
+    	Member, Constitution Committee 2011-2013
 
 ## Membership
 
@@ -433,10 +433,13 @@ Grant provided films that higlight America's Civil Rights Movement. Grant applic
 * Librarians Without Borders, Member 2006 – Present
 * American Libraries Association (ALA), Member 2005 – 2016, 2019 – 2020
 
-## Media Appearances 
+## Media Appearances
 
 
 * Carlson, S. (2022, March 9). Libraries are the great equalizers. *The Chronicle of Higher Education*. [https://www.chronicle.com/chronicle-intelligence/report/libraries-are-the-great-equalizers](https://www.chronicle.com/chronicle-intelligence/report/libraries-are-the-great-equalizers).
-* Carlson, S. (2022). Special collections in *The Library of the Future*. *The Chronicle of Higher Education* report. pg. 36. 
+* Carlson, S. (2022). Special collections in *The Library of the Future*. *The Chronicle of Higher Education* report. pg. 36.
 * Kroski, E. V. (2022, Jan. 3). *Guest interview: Junior Tidal on podcasting* [Video]. YouTube. [https://www.youtube.com/watch?v=u32-9eYj8Mw](https://www.youtube.com/watch?v=u32-9eYj8Mw)
 * Collins, K. & Ovadia, S. (Hosts). (2021, April 26). *Episode 58: City Tech librarians talk podcasting* [Audio podcast episode]. *Indoor Voices* [https://traffic.libsyn.com/secure/indoorvoices/Tidal_and_Almeida.mp3](https://traffic.libsyn.com/secure/indoorvoices/Tidal_and_Almeida.mp3)
+
+
+
