@@ -16,8 +16,8 @@ My research interests include mobile web usability, digital privacy, podcasting,
 
 I serve as the Library's Department Chair and oversee the City Tech library's faculty, staff, and operations. 
 
-Originally from Whitesburg, KY, I reside in Brooklyn, NY. I earned my Master of Library Science and Master of Information Science from Indiana University, Bloomington. 
+I am a first-generation Filipino-Amrican, originally from Whitesburg, Kentucky, and currently reside in Brooklyn, New York. I earned my Master of Library Science and Master of Information Science from Indiana University, Bloomington. 
 
-While not in the library, I enjoy spending time listening to heavy metal vinyl, cooking vegan meals, and cycling. 
+While not in the library, I enjoy spending time listening to [heavy metal vinyl](https://www.discogs.com/user/jtidal/collection), cooking vegan meals, and cycling. 
 
 
