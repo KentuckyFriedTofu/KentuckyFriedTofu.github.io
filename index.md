@@ -5,7 +5,7 @@ title: Hi, I'm Abu
 
 
 # Hi, I'm Abu. 
-My name is Abubakar Remigio Tidal, Jr. (Junior Tidal), and I am the Multimedia and Web Services Librarian, Professor, for the [Ursula C. Schwerin Library](https://library.citytech.cuny.edu) at the [New York City College of Technology](https://citytech.cuny.edu) of the [City University of New York](https://www.cuny.edu). 
+My name is Abubakar Remigio Tidal, Jr. (Junior Tidal), and I am the Chief Librarian & Department Chair, Professor, for the [Ursula C. Schwerin Library](https://library.citytech.cuny.edu) at the [New York City College of Technology](https://citytech.cuny.edu) of the [City University of New York](https://www.cuny.edu). 
 
 {:refdef: style="text-align: center;"}
 ![Photo by Al Vargas](https://juniortidal.com/assets/junior_tidal.jpg "Photo by Al Vargas"){: width="250"}
