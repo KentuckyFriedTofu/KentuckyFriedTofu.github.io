@@ -10,7 +10,7 @@ My name is Abubakar Remigio Tidal, Jr. (Junior Tidal), and I am the Chief Librar
 {:refdef: style="text-align: center;"}
 ![Photo by Al Vargas](https://juniortidal.com/assets/junior_tidal.jpg "Photo by Al Vargas"){: width="250"}
 {: refdef}
-<p style="text-align: center;">*Photo by Alberto Vargas*</p>
+<p style="text-align: center; font-style:italic">Photo by Alberto Vargas</p>
 
 My research interests include mobile web usability, digital privacy, podcasting, and more. I've written a number of [publications and presentations](cv.html), including the books, [*Usability and the Mobile Web*](http://www.worldcat.org/oclc/937668047) and [*Podcasting: A Practical Guide for Librarians*](http://www.worldcat.org/oclc/1259038141).
 
