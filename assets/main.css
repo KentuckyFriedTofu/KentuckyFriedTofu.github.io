@@ -9,7 +9,6 @@
 
 li {
   margin-bottom: 1em; /* Adds space between list items */
-    max-width: 80ch;
-  margin: 0 auto;     /* Center the paragraph */
+  max-width: 80ch;
   line-height: 1.6;   /* Improve readability */
 }
